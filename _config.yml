@@ -104,3 +104,5 @@ side_bar_repo_limit: 7 # Number of repos to show
 disqus-shortname: jacobgreen4477
 
 
+
+theme: jekyll-theme-modernist
