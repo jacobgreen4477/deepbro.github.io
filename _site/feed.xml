@@ -5,9 +5,24 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Jan 2019 14:10:42 +0900</pubDate>
-    <lastBuildDate>Mon, 07 Jan 2019 14:10:42 +0900</lastBuildDate>
+    <pubDate>Mon, 07 Jan 2019 14:18:45 +0900</pubDate>
+    <lastBuildDate>Mon, 07 Jan 2019 14:18:45 +0900</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>DB손해보험으로 이직</title>
+        <description>&lt;p&gt;(냉무)&lt;/p&gt;
+</description>
+        <pubDate>Mon, 07 Jan 2019 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/%EA%B8%B0%ED%83%80/2019/01/07/DB.html</link>
+        <guid isPermaLink="true">http://localhost:4000/%EA%B8%B0%ED%83%80/2019/01/07/DB.html</guid>
+        
+        <category>기타</category>
+        
+        
+        <category>기타</category>
+        
+      </item>
     
       <item>
         <title>2018.12.29. 데이터 사이언스 뉴스레터</title>
@@ -680,71 +695,6 @@
         <pubDate>Sat, 03 Nov 2018 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/newsletters/2018/11/03/newsletter.html</link>
         <guid isPermaLink="true">http://localhost:4000/newsletters/2018/11/03/newsletter.html</guid>
-        
-        <category>Machine learning</category>
-        
-        <category>Data Science article</category>
-        
-        
-        <category>newsletters</category>
-        
-      </item>
-    
-      <item>
-        <title>2018.10.27. 데이터 사이언스 뉴스레터</title>
-        <description>&lt;p&gt;데이터 사이언스 뉴스레터 (&lt;a href=&quot;https://raw.githubusercontent.com/2econsulting/2econsulting.github.io/master/data/newsletter/output/report/wordcloud_20181027.png&quot;&gt;wordcloud&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;kaggle-blog-news-title&quot;&gt;Kaggle Blog NEWS TITLE&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;no new article&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;data-camp-news-title&quot;&gt;Data Camp NEWS TITLE&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.datacamp.com/community/blog/decision-intelligence-data-science&quot;&gt;Cassie Kozyrkov discusses decision making and decision intelligence!&lt;/a&gt;
-&lt;br /&gt;Keyword(freq): scientist(16), skill(12), folk(9), maker(9), decision(8), photograph(8), team(8), analytics(7), question(7), assumption(6)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;analytics-vidhya-news-title&quot;&gt;Analytics Vidhya NEWS TITLE&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.analyticsvidhya.com/blog/2018/10/predicting-stock-price-machine-learningnd-deep-learning-techniques-python/&quot;&gt;Stock Prices Prediction Using Machine Learning and Deep Learning Techniques (with Python codes)&lt;/a&gt;
-&lt;br /&gt;Keyword(freq): prediction(21), value(17), technique(13), feature(8), variable(6), algorithm(5), price(5), result(5), factor(4), neighbor(4)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;machine-learning-mastery-news-title&quot;&gt;Machine Learning Mastery NEWS TITLE&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://machinelearningmastery.com/how-to-grid-search-naive-methods-for-univariate-time-series-forecasting/&quot;&gt;How to Grid Search Naive Methods for Univariate Time Series Forecasting&lt;/a&gt;
-&lt;br /&gt;Keyword(freq): observation(26), configuration(23), strategy(14), method(9), model(9), sale(9), value(8), implement(6), result(5), birth(4)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://machinelearningmastery.com/how-to-grid-search-sarima-model-hyperparameters-for-time-series-forecasting-in-python/&quot;&gt;How to Grid Search SARIMA Model Hyperparameters for Time Series Forecasting in Python&lt;/a&gt;
-&lt;br /&gt;Keyword(freq): configuration(29), hyperparameter(11), model(11), observation(11), sale(9), element(5), implement(5), minute(5), parameter(5), birth(4)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://machinelearningmastery.com/how-to-grid-search-triple-exponential-smoothing-for-time-series-forecasting-in-python/&quot;&gt;How to Grid Search Triple Exponential Smoothing for Time Series Forecasting in Python&lt;/a&gt;
-&lt;br /&gt;Keyword(freq): configuration(24), observation(18), hyperparameter(11), model(9), sale(9), method(7), parameter(7), implement(5), birth(4), forecast(4)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 27 Oct 2018 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/newsletters/2018/10/27/newsletter.html</link>
-        <guid isPermaLink="true">http://localhost:4000/newsletters/2018/10/27/newsletter.html</guid>
         
         <category>Machine learning</category>
         
